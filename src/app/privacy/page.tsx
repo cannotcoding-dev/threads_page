@@ -7,7 +7,7 @@ export default function Privacy() {
                     최종 업데이트일: 2025년 5월 24일
                 </p>
                 <p className="text-gray-600 mb-8">
-                    본 서비스(이하 "서비스")는 사용자의 개인정보를 소중히 여기며, 『개인정보 보호법』 등 관련 법령을 준수합니다.
+                    본 서비스(이하 &quot;서비스&quot;)는 사용자의 개인정보를 소중히 여기며, 『개인정보 보호법』 등 관련 법령을 준수합니다.
                     이 개인정보처리방침은 사용자가 제공하거나 생성한 정보가 어떻게 수집, 이용, 저장, 보호되는지를 설명합니다.
                 </p>
 
@@ -80,8 +80,8 @@ export default function Privacy() {
                 <section className="mb-8">
                     <h2 className="text-2xl font-semibold mb-4">8. 담당자 연락처</h2>
                     <p className="text-gray-600">
-                        개인정보 보호 책임자: 홍길동<br />
-                        이메일: contact@yourdomain.com
+                        개인정보 보호 책임자: 문현민<br />
+                        이메일: daniel@dothegy.org
                     </p>
                 </section>
 

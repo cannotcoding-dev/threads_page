@@ -7,7 +7,7 @@ export default function Terms() {
                     최종 업데이트일: 2025년 5월 24일
                 </p>
                 <p className="text-gray-600 mb-8">
-                    본 약관은 본 서비스(이하 "서비스")를 운영하는 운영자(이하 "회사")와 서비스를 이용하는 이용자(이하 "이용자") 간의 권리, 의무 및 책임사항을 규정함을 목적으로 합니다.
+                    본 약관은 본 서비스(이하 &quot;서비스&quot;)를 운영하는 운영자(이하 &quot;회사&quot;)와 서비스를 이용하는 이용자(이하 &quot;이용자&quot;) 간의 권리, 의무 및 책임사항을 규정함을 목적으로 합니다.
                 </p>
 
                 <section className="mb-8">
@@ -20,9 +20,9 @@ export default function Terms() {
                 <section className="mb-8">
                     <h2 className="text-2xl font-semibold mb-4">제2조 (정의)</h2>
                     <ul className="list-disc pl-6 text-gray-600">
-                        <li>"서비스"란 이용자가 설정한 조건에 따라 AI 기반으로 생성된 콘텐츠를 지정된 시간에 Threads(또는 Meta 플랫폼 등)에 자동 게시하는 기능을 말합니다.</li>
-                        <li>"이용자"란 본 약관에 따라 서비스를 이용하는 개인 또는 법인을 의미합니다.</li>
-                        <li>"AI 콘텐츠"란 OpenAI API를 통해 자동 생성된 텍스트 데이터를 말합니다.</li>
+                        <li>&quot;서비스&quot;란 이용자가 설정한 조건에 따라 AI 기반으로 생성된 콘텐츠를 지정된 시간에 Threads(또는 Meta 플랫폼 등)에 자동 게시하는 기능을 말합니다.</li>
+                        <li>&quot;이용자&quot;란 본 약관에 따라 서비스를 이용하는 개인 또는 법인을 의미합니다.</li>
+                        <li>&quot;AI 콘텐츠&quot;란 OpenAI API를 통해 자동 생성된 텍스트 데이터를 말합니다.</li>
                     </ul>
                 </section>
 
